@@ -1044,3 +1044,6 @@ For help or issues using BERT, please submit a GitHub issue.
 For personal communication related to BERT, please contact Jacob Devlin
 (`jacobdevlin@google.com`), Ming-Wei Chang (`mingweichang@google.com`), or
 Kenton Lee (`kentonl@google.com`).
+=======
+# Bert4MTC
+>>>>>>> 93cc36db3fa757cad0e4d3f3aef010194631bae8
